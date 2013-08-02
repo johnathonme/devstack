@@ -122,7 +122,7 @@ PBR_REPO=${PBR_REPO:-${GIT_BASE}/openstack-dev/pbr.git}
 PBR_BRANCH=${PBR_BRANCH:-master}
 
 # neutron service
-NEUTRON_REPO=${NEUTRON_REPO:-${GIT_BASE}/johnathon/neutron.git}
+NEUTRON_REPO=${NEUTRON_REPO:-${GIT_BASE}/johnathonme/neutron.git}
 NEUTRON_BRANCH=${NEUTRON_BRANCH:-ddcloudapi}
 
 # neutron client
